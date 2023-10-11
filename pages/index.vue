@@ -1,9 +1,4 @@
 <template>
-    <div>
-        <h1>Hello World</h1>
-    </div>
+  <HeroSection />
+  <AboutSection />
 </template>
-
-<script setup lang="ts">
-
-</script>
