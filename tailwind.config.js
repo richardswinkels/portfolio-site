@@ -18,6 +18,11 @@ export default {
       colors: {
         primary: colors.white,
         secondary: {
+          700: '#17293c',
+          800: '#111e2c',
+          900: '#0b141d',
+        },
+        accent: {
           100: '#8cb9ff',
           200: '#81b2ff',
           300: '#74aaff',
@@ -27,11 +32,6 @@ export default {
           700: '#3384ff',
           800: '#1f78ff',
           900: '#0066ff',
-        },
-        accent: {
-          700: '#17293c',
-          800: '#111e2c',
-          900: '#0b141d',
         },
       },
     },
