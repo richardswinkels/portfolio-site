@@ -1,4 +1,6 @@
 <template>
-  <HeroSection />
-  <AboutSection />
+  <SectionsHeroSection />
+  <SectionsAboutSection />
+  <SectionsSkillsSection />
+  <SectionsProjectsSection />
 </template>
