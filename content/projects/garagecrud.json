@@ -1,0 +1,8 @@
+{
+  "name": "GarageCRUD",
+  "description": "Een CRUD website en desktopapplicatie geschreven in PHP en C#. Op de website en in de desktopapplicatie kan men auto's beheren en klanten beheren.",
+  "image_path": "./img/projects/garagecrud.webp",
+  "tags": ["HTML/CSS", "PHP", "C#"],
+  "github_link": "https://github.com/richardswinkels/garagecrud",
+  "order": "2"
+}

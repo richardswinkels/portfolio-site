@@ -1,0 +1,9 @@
+{
+  "name": "Stonkspizza",
+  "description": "Een bestelsysteem voor een pizzeria gebouwd in Laravel die communiceert met een C# WPF-applicatie. De klant kan pizza's bestellen en de bestelstatus inzien. Vervolgens kan het personeel de bestellingen inzien en beheren in de C# applicatie.",
+  "image_path": "./img/projects/stonkspizza.webp",
+  "tags": ["HTML/CSS", "JavaScript", "Laravel", "C#"],
+  "github_link": "https://github.com/richardswinkels/Stonkspizza",
+  "live_demo_link": "https://richardswinkels.nl/projects/stonkspizza/",
+  "order": "5"
+}

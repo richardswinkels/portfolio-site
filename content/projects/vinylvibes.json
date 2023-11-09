@@ -1,0 +1,9 @@
+{
+  "name": "VinylVibes",
+  "description": "VinylVibes is een fictieve webshop die ik heb gebouwd als onderdeel van mijn eindexamenproject voor het keuzevak 'Frontend Development'. De webwinkel bevat een koppeling met een zelfgebouwde REST API.<br/><br/>Eindcijfer: 9.7",
+  "image_path": "./img/projects/vinylvibes.webp",
+  "tags": ["Vue.js", "Tailwind", "Laravel"],
+  "github_link": "https://github.com/richardswinkels/recordstore",
+  "live_demo_link": "https://recordstore.richardswinkels.nl",
+  "order": "6"
+}

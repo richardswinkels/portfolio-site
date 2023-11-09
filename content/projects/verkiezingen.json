@@ -1,0 +1,9 @@
+{
+  "name": "Verkiezingen project",
+  "description": "Een schoolproject dat bestaat uit een website en een C# WPF-applicatie. Op de website worden allerlei politieke partijen weergegeven. De website legt met behulp van PHP een connectie met een MySQL Database. Deze database staat tevens in connectie met een C# WPF-applicatie waarin men de inhoud van de website kan beheren.",
+  "image_path": "./img/projects/verkiezingen.webp",
+  "tags": ["HTML/CSS", "PHP", "C#"],
+  "github_link": "https://github.com/richardswinkels/verkiezingen",
+  "live_demo_link": "https://richardswinkels.nl/projects/verkiezingen",
+  "order": "3"
+}

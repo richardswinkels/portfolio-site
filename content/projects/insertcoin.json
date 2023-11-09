@@ -1,0 +1,9 @@
+{
+  "name": "Insert Coin",
+  "description": "Insert Coin is een statische website voor een fictieve gamewinkel gebouwd met HTML/CSS en JavaScript. Het betreft een website volledig door mijzelf ontworpen en gebouwd.",
+  "image_path": "./img/projects/insertcoin.webp",
+  "tags": ["HTML/CSS", "JavaScript"],
+  "github_link": "https://github.com/richardswinkels/InsertCoin",
+  "live_demo_link": "https://richardswinkels.nl/projects/insertcoin/",
+  "order": "1"
+}

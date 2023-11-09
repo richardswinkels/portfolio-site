@@ -1,0 +1,9 @@
+{
+  "name": "Movie App",
+  "description": "Een mobiele app gekoppeld aan de API van themoviedb.org. De gebruiker kan films en series inzien en de details van een geselecteerde film of serie bekijken.",
+  "image_path": "./img/projects/movieapp.webp",
+  "tags": ["React Native"],
+  "github_link": "https://github.com/richardswinkels/movieapp",
+  "demo_video_links": ["./media/movieapp.mp4"],
+  "order": "4"
+}

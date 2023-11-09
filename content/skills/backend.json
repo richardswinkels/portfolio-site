@@ -1,0 +1,34 @@
+[
+  {
+    "name": "PHP",
+    "icon_path": "./img/skills/backend/php.svg"
+  },
+  {
+    "name": "Laravel",
+    "icon_path": "./img/skills/backend/laravel.svg"
+  },
+  {
+    "name": "Node.js",
+    "icon_path": "./img/skills/backend/nodejs.svg"
+  },
+  {
+    "name": "Express.js",
+    "icon_path": "./img/skills/backend/expressjs.svg"
+  },
+  {
+    "name": "Python",
+    "icon_path": "./img/skills/backend/python.svg"
+  },
+  {
+    "name": "C#",
+    "icon_path": "./img/skills/backend/csharp.svg"
+  },
+  {
+    "name": "MySQL",
+    "icon_path": "./img/skills/backend/mysql.svg"
+  },
+  {
+    "name": "MongoDB",
+    "icon_path": "./img/skills/backend/mongodb.svg"
+  }
+]

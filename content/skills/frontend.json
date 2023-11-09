@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HTML",
+    "icon_path": "./img/skills/frontend/html.svg"
+  },
+  {
+    "name": "CSS",
+    "icon_path": "./img/skills/frontend/css.svg"
+  },
+  {
+    "name": "JavaScript",
+    "icon_path": "./img/skills/frontend/javascript.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "icon_path": "./img/skills/frontend/bootstrap.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon_path": "./img/skills/frontend/tailwindcss.svg"
+  },
+  {
+    "name": "Vue.js",
+    "icon_path": "./img/skills/frontend/vuejs.svg"
+  },
+  {
+    "name": "Nuxt.js",
+    "icon_path": "./img/skills/frontend/nuxtjs.svg"
+  },
+  {
+    "name": "React Native",
+    "icon_path": "./img/skills/frontend/react.svg"
+  },
+  {
+    "name": "Livewire",
+    "icon_path": "/img/skills/frontend/livewire.svg"
+  }
+]
